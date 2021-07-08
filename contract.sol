@@ -33,10 +33,10 @@ contract SafeMath {
 }
 
 contract Coin is ERC20Interface, SafeMath {
-    string public name = "SIM";
-    string public symbol = "SIM";
+    string public name = "MuscleCoin";
+    string public symbol = "MUC";
     uint8 public decimals = 18;
-    uint256 public _totalSupply = 2000000000000000000000000000; // 2 billion SIM in supply
+    uint256 public _totalSupply = 2000000000000000000000000000; // 2 billion in supply
 
     mapping(address => uint256) balances;
     mapping(address => mapping(address => uint256)) allowed;
