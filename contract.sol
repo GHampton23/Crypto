@@ -59,8 +59,12 @@ contract Coin is ERC20Interface, SafeMath {
     }
     
     function _transfer(address from, address to, uint256 tokens) private returns (bool success) {
-        unit256 amountToBurn = safeDiv(tokens, 20); // 1% of the transaction shall be burned
-        unit256 amountToTransfer = safeSub(tokens, amountToBurn);
+        unit256 amountToBurn = safeDiv(tokens, 200); // 0.5% of the transaction shall be burned
+        unit256 amountToDonate = safDiv(tokens, 100); // 1% of the transaction shall be donated
+        unit256 amountToTransfer = safeSub(tokens, amountToBurn), amountToDonate);
+        
+        // Donations are made to the Free the Food
+        // https://giveth.io/donate/free-the-food
         
         balances[from] = safeSub(balances[from], tokens);
         balances[0x0000000000000000000000000000000000000000] = safeAdd(balances[0x0000000000000000000000000000000000000000], amountToBurn);
