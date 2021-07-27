@@ -5,4 +5,5 @@ GoldenCoin is a BEP-20 token published on the [Binance Smart Chain](https://bscs
 ---
 
 GoldenCoin can be purchased through the PancakeSwap exchange, which is accessible [here](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8ce163a3e2212aff8bfecaf9b7f72ae04985b895).
-![](GoldenCoin)
+
+![](GoldenCoin.jpg)
