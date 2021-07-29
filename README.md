@@ -2,20 +2,21 @@
 
 GoldenCoin is a deflationary token deployed on the Binance Smart Chain under contract [0x7ed52b30ae68463a21994371c3a77d18dd144fc8](https://bscscan.com/token/0x7ed52b30ae68463a21994371c3a77d18dd144fc8).
 
-![](GoldenCoin_Circle.png)
+<img src="GoldenCoin_Circle.png" data-canonical-src="GoldenCoin_Circle.png" width="600"/>
 
-## Donations to Charity
-
-For every transaction, 1% of it is sent to the [Free the Food](https://giveth.io/project/free-the-food) charity. This project is described as follows.
-
-> ![](banner.jpg)
-> Streetside Syntropic. We empower people and communities around the world to plant their streetsides with food. Using Permaculture and Syntropic farming techniques, fruit trees, edible plants, and other companion plants are combined to create a circular and regenerative food system. Why Streetside? All over the world there are streets with empty sides. We convert these spaces into micro food forests to provide free food for the community and spread the message of Syntropic techniques. Planting in this way also builds habitat for wildlife and restores ecological diversity. Why Syntropic? It is one of the most successful and harmonious growing methods for rehabilitating land and growing food. Syntropic agriculture mimics the evolution of a forest and uses techniques to accelerate growth, generate biomass to build soil, and continuously remove CO2 from the air. This successional planting method is a permanent and evolving system that provides food forever. How It Works? We provide Syntropic education, step-by-step guidance, and micro-grants to help communities start and maintain a fruitful streetside. These teams use social media to share the evolution of their planting journey while also seeding Syntropic knowledge worldwide. We use discord as a forum to discuss, share, and learn together. We provide 100% transparency with donation allocation and use of funds. 501c3 coming soon. We currently have 3 streetsides planted in Costa Rica with 2 more waiting to be planted. We are also developing a community food forest on a donated piece of land. This is the pilot project for phase 2. We are currently seeking donations for website development, 501c3 incorporation, legal advice, tools, seeds/trees, water tanks, irrigation drip line, and $100USD/month for 1 person. Thank you for your contributions to help heal soil, sequester carbon, and grow food for the world!
 
 ## Supply and Future Ambitions
 
-The deflation occurs by burning 1% off every transaction, which not only limits the supply, but incentivises holding it due to the increasing rarity.
+The deflation occurs by burning 1% off every transaction, which not only limits the supply, but incentivises holding it due to the increasing rarity. The initial token supply was 2 billion GOLDC. 1 billion was sent to [0x0](https://bscscan.com/tx/0x510759e7424e564dec4835002b9ebbb13223f85c70b89d2d4cf2cd5f2590074e) for burning. GOLDC liquidity was also added to the [PancakeSwap liquidity pool](https://pancakeswap.finance/add/0x7ed52b30ae68463a21994371c3a77D18DD144fc8/BNB).
 
-The initial token supply was 2 billion GOLDC. 1 billion was sent to [0x0](https://bscscan.com/tx/0x510759e7424e564dec4835002b9ebbb13223f85c70b89d2d4cf2cd5f2590074e) for burning. GOLDC liquidity was also added to the [PancakeSwap liquidity pool](https://pancakeswap.finance/add/0x7ed52b30ae68463a21994371c3a77D18DD144fc8/BNB).
+
+## Donations to Charity
+
+For every transaction, 1% of the transaction is sent to the [Free the Food](https://giveth.io/project/free-the-food) charity. This project is described as follows.
+
+> ![](banner.jpg)
+> 
+> Streetside Syntropic. We empower people and communities around the world to plant their streetsides with food. Using Permaculture and Syntropic farming techniques, fruit trees, edible plants, and other companion plants are combined to create a circular and regenerative food system. Why Streetside? All over the world there are streets with empty sides. We convert these spaces into micro food forests to provide free food for the community and spread the message of Syntropic techniques. Planting in this way also builds habitat for wildlife and restores ecological diversity. Why Syntropic? It is one of the most successful and harmonious growing methods for rehabilitating land and growing food. Syntropic agriculture mimics the evolution of a forest and uses techniques to accelerate growth, generate biomass to build soil, and continuously remove CO2 from the air. This successional planting method is a permanent and evolving system that provides food forever. How It Works? We provide Syntropic education, step-by-step guidance, and micro-grants to help communities start and maintain a fruitful streetside. These teams use social media to share the evolution of their planting journey while also seeding Syntropic knowledge worldwide. We use discord as a forum to discuss, share, and learn together. We provide 100% transparency with donation allocation and use of funds. 501c3 coming soon. We currently have 3 streetsides planted in Costa Rica with 2 more waiting to be planted. We are also developing a community food forest on a donated piece of land. This is the pilot project for phase 2. We are currently seeking donations for website development, 501c3 incorporation, legal advice, tools, seeds/trees, water tanks, irrigation drip line, and $100USD/month for 1 person. Thank you for your contributions to help heal soil, sequester carbon, and grow food for the world!
 
 ## Eco-friendly Finance
 
